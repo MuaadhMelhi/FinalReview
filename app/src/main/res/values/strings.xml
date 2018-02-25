@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OurAppFinalReview</string>
+    <string name="please_sign_in">Please Sign In.</string>
+    <string name="username">Username:</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="password">Password:</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="submit">Submit</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="please_register">Please Register.</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+</resources>
